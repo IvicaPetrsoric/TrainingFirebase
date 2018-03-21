@@ -51,7 +51,6 @@ Images/Share screens:
 #
 
 Core Features:
-- swift 4
 - autoLayout with code, no Storyboards
 - login and Registration on Firebase
 - custom TabBar
